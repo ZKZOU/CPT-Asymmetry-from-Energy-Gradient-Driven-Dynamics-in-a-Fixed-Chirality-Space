@@ -6,6 +6,15 @@ Zhi Kai, Zou
 
 https://orcid.org/0009-0000-4279-1064
 
+The fixed chiral ground-state spin proposal in this framework was first explicitly stated on March 19, 2025 (Zou, 2025a), and systematically developed across ontological assumptions, parity non-conservation, positron-electron magnetic moment asymmetry, SU(2) chiral encoding, Higgs locking, and matter-antimatter asymmetry in the May 6, 2025 preprint (Zou, 2025b).
+
+
+[a]Zou, . zhikai . (2025). An Ontological Framework of Space‐Time‐Entropy. Zenodo. https://doi.org/10.5281/zenodo.15048612 posted on March 19, 2025.
+
+
+[b]Zou, Z. K. (2025). Time-Entropy Mirroring via Space Transformation and Mass-Gravity Duality via QCD-Higgs Synergy. Preprints. https://doi.org/10.20944/preprints202505.0270.v1 posted on May 6, 2025
+
+
 ## I. The Parity Non-Conservation Experiment and Its Implications
 
 In 1956, Lee and Yang proposed that parity might not be conserved in weak interactions. In 1957, Wu's experimental team confirmed this prediction through observations of cobalt-60 beta decay. The experimental results showed a directional preference in weak interaction processes.
